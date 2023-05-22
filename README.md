@@ -33,7 +33,7 @@
 
 <div align="center">
 
-![hong-bin95's github stats](https://github-readme-stats.vercel.app/api?username=hong-bin95&show_icons=true)
+![hong-bin95's github stats](https://github-readme-stats.vercel.app/api?username=memento125&show_icons=true)
   
 </div>
 <p align='center'>
@@ -42,7 +42,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=hong-bin95)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=memento125)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
