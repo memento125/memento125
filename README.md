@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HAEEUN&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer!&descAlignY=51&descAlign=62)
 <p align='center' style="font-size: 40px;"> 🍾 언어 🍾 </p>
 <p align='center'>
-  <img src="https://img.shields.io/badge/C%23-7ED321?style=for-the-badge&logo=CSharp&logoColor=white">
-  <img src="https://img.shields.io/badge/JAVA-117ACA?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-B03931?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
 </p>
 <p align='center' style="font-size: 40px;"> 📟 가능 📟 </p>
 <p align='center'>
