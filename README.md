@@ -4,28 +4,18 @@
   <img src="https://img.shields.io/badge/JAVA-B03931?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
 </p>
 <p align='center' style="font-size: 40px;"> 📟 가능 📟 </p>
 <p align='center'>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=orange">
   <img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
   <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
 </p>
-
-<p align='center'>
-  ✨링크🎉
-</p>
-
-<div align="center">
-<a  href="https://dev-hongbin.tistory.com/"><img src="https://user-images.githubusercontent.com/105191633/227961244-6f04a4a9-ce2d-4411-99ce-19f1b4ecdb01.png" height="28"> </a>
-  
-</div>
 
 <p align='center'>
   🍿커밋🍿
