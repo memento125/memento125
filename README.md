@@ -34,15 +34,17 @@
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=memento125)](https://github.com/ryo-ma/github-profile-trophy)
+
+  <p align= 'center'>
+   백준 티어  
+  </p>
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=memento)](https://solved.ac/memento/)
   
 </div>
 
-<p align= 'center'>
-   백준 티어  
-</p>
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hansaem900d)](https://solved.ac/hansaem900d/)
 
+ 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Sapere%20aude!&fontSize=90)
 
 
